@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+openpyxl
+xlsxwriter
+sqlalchemy
+psycopg2-binary
+supabase
+python-dotenv
+plotly
+lightgbm
+xgboost
+matplotlib
+seaborn
+python-dateutil

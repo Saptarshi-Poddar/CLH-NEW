@@ -1,0 +1,8 @@
+Flight_Number,Origin,Destination,Route_Type
+6E 021,BOM,AMS,Direct
+EK 507,BOM,DXB,Direct
+EK 507,DXB,CDG,Hub
+EK 507,DXB,MEM,Hub
+EK 507,DXB,LHR,Hub
+QR 557,BOM,MEM,Direct
+AI 179,BOM,MEM,Direct

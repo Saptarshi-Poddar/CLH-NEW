@@ -1,0 +1,18 @@
+Flight_Number,Airline,Operating_Day,Takeoff_Weekday
+AI 179,AI,Monday,1
+AI 179,AI,Tuesday,2
+AI 179,AI,Friday,5
+AI 179,AI,Saturday,6
+QR 557,QR,Tuesday,2
+QR 557,QR,Wednesday,3
+QR 557,QR,Thursday,4
+QR 557,QR,Friday,5
+QR 557,QR,Saturday,6
+QR 557,QR,Sunday,7
+EK 507,EK,Sunday,7
+6E 021,Indigo,Tuesday,2
+6E 021,Indigo,Wednesday,3
+6E 021,Indigo,Thursday,4
+6E 021,Indigo,Friday,5
+6E 021,Indigo,Saturday,6
+6E 021,Indigo,Sunday,7
